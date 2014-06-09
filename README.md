@@ -6,6 +6,6 @@ en América Latina.
 
 ## Usamos Jekyll
 
-* Instala [Jakyll](http://jekyllrb.com/) y participa con nosotros
+* Instala [Jekyll](http://jekyllrb.com/) y participa con nosotros
 * Blog abierto para participaciones en español y portugués
 * Queremos conocer tu trabajo. Si eres parte del ecosistema de emprendedores solicita una entrevista.
